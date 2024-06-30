@@ -1,0 +1,50 @@
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csprojAssemblyReference.cache
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Form1.resources
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Properties.Resources.resources
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csproj.GenerateResource.cache
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csproj.CoreCompileInputs.cache
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe.config
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.pdb
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.exe
+C:\Users\jindr\source\repos\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.pdb
+D:\pro projekt\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe.config
+D:\pro projekt\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe
+D:\pro projekt\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.pdb
+D:\pro projekt\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csprojResolveAssemblyReference.cache
+D:\pro projekt\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Form1.resources
+D:\pro projekt\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Properties.Resources.resources
+D:\pro projekt\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csproj.GenerateResource.Cache
+D:\pro projekt\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.exe
+D:\pro projekt\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.pdb
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\bin\Debug\okna se zpravou.exe.config
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\bin\Debug\okna se zpravou.exe
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\bin\Debug\okna se zpravou.pdb
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\obj\Debug\okna se zpravou.csprojResolveAssemblyReference.cache
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\obj\Debug\okna_se_zpravou.Form1.resources
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\obj\Debug\okna_se_zpravou.Properties.Resources.resources
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\obj\Debug\okna se zpravou.csproj.GenerateResource.Cache
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\obj\Debug\okna se zpravou.exe
+D:\pro projekt\okna se zpravou - kopie\okna se zpravou\obj\Debug\okna se zpravou.pdb
+D:\pro projekt\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.napoveda.resources
+K:\pro\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe.config
+K:\pro\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe
+K:\pro\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.pdb
+K:\pro\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csprojResolveAssemblyReference.cache
+K:\pro\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Form1.resources
+K:\pro\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.napoveda.resources
+K:\pro\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Properties.Resources.resources
+K:\pro\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csproj.GenerateResource.Cache
+K:\pro\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.exe
+K:\pro\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.pdb
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe.config
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.exe
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\bin\Debug\okna se zpravou.pdb
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csproj.AssemblyReference.cache
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Form1.resources
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.napoveda.resources
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna_se_zpravou.Properties.Resources.resources
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csproj.GenerateResource.cache
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.csproj.CoreCompileInputs.cache
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.exe
+F:\vse\vše\pro\2.b\okna se zpravou\okna se zpravou\obj\Debug\okna se zpravou.pdb

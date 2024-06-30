@@ -1,0 +1,62 @@
+vypracoval:Jindra cinadr
+
+
+pro nový soubor (3 cesty)
+
+1 stisknìte pøíslušnou ikonku 
+2 v horní lištì stisknìte soubor vyjede nabídka dejte nový
+3 klávesová zkratka crl + n
+
+pro otevøení jiného souboru v tomto programu (3 cesty)
+
+1 stisknìte pøíslušnou ikonku 
+2 v horní lištì stisknìte soubor vyjede nabídka dejte otevøít
+3 klávesová zkratka crl + d
+
+pro uložní (3 cesty)
+
+1 stisknìte pøíslušnou ikonku 
+2 v horní lištì stisknìte soubor vyjede nabídka dejte uložit
+3 klávesová zkratka crl + u
+
+ukonèení dokumentu (2 cesty)
+1 stisknìte køížek, objevý se dotazník "chcete skonèit?" stisknìte ano
+2 v horní lištì stisknìte soubor vyjede nabídka dejte ukonèit , objevý se dotazník "chcete skonèit?" stisknìte ano
+
+vyjmutí(3 cesty)
+
+1 stisknìte pøíslušnou ikonku 
+2 v horní lištì stisknìte úpravy vyjede nabídka dejte vyjmout
+3 klávesová zkratka ctr + x
+
+kopírovat(3 cesty)
+
+1 stisknìte pøíslušnou ikonku 
+2 v horní lištì stisknìte úpravy vyjede nabídka dejte kopírovat
+3 klávesová zkratka ctr + c
+
+vložit(3 cesty)
+
+1 stisknìte pøíslušnou ikonku 
+2 v horní lištì stisknìte úpravy vyjede nabídka dejte vložit
+3 klávesová zkratka ctr + v
+
+vložit vše (2 cesty)
+ 
+1 v horní lištì stisknìte úpravy vyjede nabídka dejte vložit vše
+2 klávesová zkratka ctr + a
+
+
+
+zmìna písma (1 cesta)
+v horní lištì stisknìte formát vyjede nabídka dejte písmo a pak typ a vyberete si
+
+zmìna barvy písma (1 cesta)
+v horní lištì stisknìte formát vyjede nabídka dejte písmo a pak barva a vyberete si
+
+
+pøiblížení (1 cesta)
+v horní lištì stisknìte zobrazení vyjede nabídka pøiblížit a oddálit. stisknìte pøiblížit
+
+oddálení (1 cesta)
+v horní lištì stisknìte zobrazení vyjede nabídka pøiblížit a oddálit. stisknìte oddálit
