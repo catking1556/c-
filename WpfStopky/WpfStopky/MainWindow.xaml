@@ -1,0 +1,41 @@
+﻿<Window x:Class="WpfStopky.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfStopky"
+        mc:Ignorable="d"
+        Title="stopky" Height="600" Width="600" AllowsTransparency="True"
+        Background="Transparent" WindowStyle="None">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border Background="Black"  CornerRadius="300" Grid.ColumnSpan="2">
+            <Border BorderBrush="white"  CornerRadius="300" Margin="28,23,29,34">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                        <GradientStop Color="Yellow" Offset="0.1" />
+                        <GradientStop Color="Lime" Offset="0.5" />
+                        <GradientStop Color="Black"  Offset="1.0" />
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Image Source="cif.png" RenderTransformOrigin="0.5,0"/>
+            </Border>
+        </Border>
+        <Label Margin="261,404,261,0" VerticalAlignment="Top" Grid.ColumnSpan="2" RenderTransformOrigin="0.141,0.595">
+            <Label x:Name="sekundy" Content="0:00" FontSize="32" FontWeight="Bold" RenderTransformOrigin="-0.125,0.296" Width="78"/>
+        </Label>
+        <Label Margin="203,346,193,0" VerticalAlignment="Top" Grid.ColumnSpan="2" RenderTransformOrigin="0.141,0.595">
+            <Label x:Name="jmeno" Content="Jindřich Cinádr" FontSize="25" FontWeight="Bold" RenderTransformOrigin="-0.125,0.296" Width="197"/>
+        </Label>
+
+        <Image x:Name="start" Source="start.png" Margin="166,370,346,69" Grid.ColumnSpan="2" MouseLeftButtonDown="start_MouseLeftButtonDown"/>
+        <Image x:Name="stop" Source="stop.png" Margin="347,370,165,68" Grid.ColumnSpan="2" MouseLeftButtonUp="stop_MouseLeftButtonUp">
+        </Image>
+        <Rectangle x:Name="rucka" Margin="297,46,297,306" Grid.ColumnSpan="2" Fill="Black" RenderTransformOrigin="0.5,1"/>
+    </Grid>
+
+
+</Window>
