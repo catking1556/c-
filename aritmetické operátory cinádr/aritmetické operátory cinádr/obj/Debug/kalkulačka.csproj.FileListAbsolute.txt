@@ -1,0 +1,31 @@
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.exe.config
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.exe
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.pdb
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\kalkulačka.csprojResolveAssemblyReference.cache
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Form1.resources
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Properties.Resources.resources
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\kalkulačka.csproj.GenerateResource.Cache
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické operátory cinádr.exe
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické operátory cinádr.pdb
+C:\Users\cinadrjindrich\Desktop\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Form2.resources
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.exe.config
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.exe
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.pdb
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\kalkulačka.csprojResolveAssemblyReference.cache
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Form1.resources
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Form2.resources
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Properties.Resources.resources
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\kalkulačka.csproj.GenerateResource.Cache
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické operátory cinádr.exe
+K:\pro\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické operátory cinádr.pdb
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.exe.config
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.exe
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\bin\Debug\aritmetické operátory cinádr.pdb
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\kalkulačka.csproj.AssemblyReference.cache
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Form1.resources
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Form2.resources
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické_operátory_cinádr.Properties.Resources.resources
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\kalkulačka.csproj.GenerateResource.cache
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\kalkulačka.csproj.CoreCompileInputs.cache
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické operátory cinádr.exe
+F:\vse\vše\pro\2.b\aritmetické operátory cinádr\aritmetické operátory cinádr\obj\Debug\aritmetické operátory cinádr.pdb
