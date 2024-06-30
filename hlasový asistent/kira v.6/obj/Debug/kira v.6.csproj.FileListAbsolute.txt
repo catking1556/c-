@@ -1,0 +1,56 @@
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\bin\Debug\kira v.6.exe.config
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\bin\Debug\kira v.6.exe
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\bin\Debug\kira v.6.pdb
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.AssemblyReference.cache
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira_v._6.Form1.resources
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira_v._6.Properties.Resources.resources
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.GenerateResource.cache
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.CoreCompileInputs.cache
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira v.6.exe
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira v.6.pdb
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\Interop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.ResolveComReference.cache
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\bin\Debug\Interop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\jindr\OneDrive\Plocha\kira v.6\kira v.6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\bin\Debug\kira v.6.exe.config
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\bin\Debug\kira v.6.exe
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\bin\Debug\kira v.6.pdb
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\bin\Debug\Interop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.AssemblyReference.cache
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\Interop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.ResolveComReference.cache
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira_v._6.Form1.resources
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira_v._6.Properties.Resources.resources
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.GenerateResource.cache
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.CoreCompileInputs.cache
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira v.6.exe
+C:\Users\jindr\OneDrive\Plocha\zkratkosuj\kira v.6\kira v.6\obj\Debug\kira v.6.pdb
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\bin\Debug\kira v.6.exe.config
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\bin\Debug\kira v.6.exe
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\bin\Debug\kira v.6.pdb
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\bin\Debug\Interop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.AssemblyReference.cache
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\Interop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.ResolveComReference.cache
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira_v._6.Form1.resources
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira_v._6.Properties.Resources.resources
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.GenerateResource.cache
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira v.6.csproj.CoreCompileInputs.cache
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira v.6.exe
+C:\Users\jindr\OneDrive\Plocha\práce\kira v.6\kira v.6\obj\Debug\kira v.6.pdb
