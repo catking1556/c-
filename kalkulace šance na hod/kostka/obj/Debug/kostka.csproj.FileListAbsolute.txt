@@ -1,0 +1,37 @@
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\obj\Debug\kostka.csprojResolveAssemblyReference.cache
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\obj\Debug\kostka.Form1.resources
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\obj\Debug\kostka.Properties.Resources.resources
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\obj\Debug\kostka.csproj.GenerateResource.Cache
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\bin\Debug\kostka.exe.config
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\bin\Debug\kostka.exe
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\bin\Debug\kostka.pdb
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\obj\Debug\kostka.exe
+C:\Users\cinadrjindrich\Desktop\kostka\kostka\obj\Debug\kostka.pdb
+D:\kostka s\kostka\bin\Debug\kostka.exe.config
+D:\kostka s\kostka\bin\Debug\kostka.exe
+D:\kostka s\kostka\bin\Debug\kostka.pdb
+D:\kostka s\kostka\obj\Debug\kostka.csprojResolveAssemblyReference.cache
+D:\kostka s\kostka\obj\Debug\kostka.Form1.resources
+D:\kostka s\kostka\obj\Debug\kostka.Properties.Resources.resources
+D:\kostka s\kostka\obj\Debug\kostka.csproj.GenerateResource.Cache
+D:\kostka s\kostka\obj\Debug\kostka.exe
+D:\kostka s\kostka\obj\Debug\kostka.pdb
+K:\pro\kostka s\kostka\bin\Debug\kostka.exe.config
+K:\pro\kostka s\kostka\bin\Debug\kostka.exe
+K:\pro\kostka s\kostka\bin\Debug\kostka.pdb
+K:\pro\kostka s\kostka\obj\Debug\kostka.csprojResolveAssemblyReference.cache
+K:\pro\kostka s\kostka\obj\Debug\kostka.Form1.resources
+K:\pro\kostka s\kostka\obj\Debug\kostka.Properties.Resources.resources
+K:\pro\kostka s\kostka\obj\Debug\kostka.csproj.GenerateResource.Cache
+K:\pro\kostka s\kostka\obj\Debug\kostka.exe
+K:\pro\kostka s\kostka\obj\Debug\kostka.pdb
+F:\vse\vše\pro\2.b\kostka s\kostka\bin\Debug\kostka.exe.config
+F:\vse\vše\pro\2.b\kostka s\kostka\bin\Debug\kostka.exe
+F:\vse\vše\pro\2.b\kostka s\kostka\bin\Debug\kostka.pdb
+F:\vse\vše\pro\2.b\kostka s\kostka\obj\Debug\kostka.csproj.AssemblyReference.cache
+F:\vse\vše\pro\2.b\kostka s\kostka\obj\Debug\kostka.Form1.resources
+F:\vse\vše\pro\2.b\kostka s\kostka\obj\Debug\kostka.Properties.Resources.resources
+F:\vse\vše\pro\2.b\kostka s\kostka\obj\Debug\kostka.csproj.GenerateResource.cache
+F:\vse\vše\pro\2.b\kostka s\kostka\obj\Debug\kostka.csproj.CoreCompileInputs.cache
+F:\vse\vše\pro\2.b\kostka s\kostka\obj\Debug\kostka.exe
+F:\vse\vše\pro\2.b\kostka s\kostka\obj\Debug\kostka.pdb
